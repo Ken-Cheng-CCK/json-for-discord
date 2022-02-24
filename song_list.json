@@ -40,6 +40,13 @@
                 " Risotto Metallica theme",
                 "'"
             ]
+        },
+        {
+            "name": "rubbish songs",
+            "list": [
+                "",
+                "'"
+            ]
         }
     ]
 }
